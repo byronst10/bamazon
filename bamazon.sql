@@ -24,4 +24,3 @@ VALUES (103, "Marcus Aurelius Meditations", "books", 9.99),
         (824, "Randolph Engineering aviator sunglasses", "accessories", 139.99),
         (921, "electric guitar strings", "instruments", 19.99)
         (1001, "electric guitar tuner", "instruments", 9.99)
-        
